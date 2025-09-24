@@ -69,8 +69,8 @@ Kami adalah kolektif empat talenta yang bersemangat dalam membangun aplikasi web
 
 Berikut adalah para pemikir dan pembuat di balik Arsitek Kode:
 
--   **[Kevin Jefri Fourland]**
--   **[Alif Nuryana]** - [@alifnuryana]
+-   **Kevin Jefri Fourland**
+-   **Alif Nuryana** - @alifnuryana
 -   **[Rekan 3]** - [@username-github-rekan3]
 -   **[Rekan 4]** - [@username-github-rekan4]
 
