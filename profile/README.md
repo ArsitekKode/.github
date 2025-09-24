@@ -26,7 +26,7 @@ Kami adalah kolektif empat talenta yang bersemangat dalam membangun aplikasi web
 
 ### 💻 Teknologi Kami
 
-<table>
+<table border="0">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
@@ -67,7 +67,7 @@ Kami adalah kolektif empat talenta yang bersemangat dalam membangun aplikasi web
 
 ### 👥 Tim Kami
 
-Berikut adalah para pemikir dan pembuat di balik [NAMA AGENCY ANDA]:
+Berikut adalah para pemikir dan pembuat di balik Arsitek Kode:
 
 -   **[Kevin Jefri Fourland]**
 -   **[Alif Nuryana]** - [@alifnuryana]
