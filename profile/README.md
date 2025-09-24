@@ -12,7 +12,7 @@
 
 ###  Tentang Kami
 
-Kami adalah kolektif empat mahasiswa teknik informatika yang bersemangat dalam membangun aplikasi web dan mobile yang berarti. dengan energi baru dan pengetahuan tentang teknologi terkini, kami menawarkan kecepatan, adaptabilitas, dan solusi yang hemat biaya untuk startup dan ukm.
+Kami adalah kolektif empat talenta yang bersemangat dalam membangun aplikasi web dan mobile yang berarti. Dengan energi baru dan pengetahuan tentang teknologi terkini, kami menawarkan kecepatan, adaptabilitas, dan solusi yang hemat biaya untuk bisnis dan UKM.
 
 ---
 
@@ -25,8 +25,6 @@ Kami adalah kolektif empat mahasiswa teknik informatika yang bersemangat dalam m
 ---
 
 ### 💻 Teknologi Kami
-
-*hapus baris teknologi yang tidak anda kuasai.*
 
 <table>
   <tr>
@@ -50,34 +48,38 @@ Kami adalah kolektif empat mahasiswa teknik informatika yang bersemangat dalam m
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
     </td>
   </tr>
 </table>
 
 ---
 
-### 👥 tim kami
+### 👥 Tim Kami
 
-berikut adalah para pemikir dan pembuat di balik [NAMA AGENCY ANDA]:
+Berikut adalah para pemikir dan pembuat di balik [NAMA AGENCY ANDA]:
 
--   **[nama iin]** - [@username-github-iin]
--   **[nama rekan 2]** - [@username-github-rekan2]
--   **[nama rekan 3]** - [@username-github-rekan3]
--   **[nama rekan 4]** - [@username-github-rekan4]
+-   **[Kevin Jefri Fourland]**
+-   **[Alif Nuryana]** - [@alifnuryana]
+-   **[Rekan 3]** - [@username-github-rekan3]
+-   **[Rekan 4]** - [@username-github-rekan4]
 
 ---
 
-### 🚀 mari berkolaborasi!
+### 🚀 Mari Berkolaborasi!
 
-punya ide hebat? mari kita wujudkan bersama.
+Punya ide hebat? Mari kita wujudkan bersama.
 
-📧 **email kami:** [EMAIL PUBLIK AGENCY ANDA]
+📧 **Email kami:** arsitek.kode@gmail.com
 <br>
-📅 **jadwalkan konsultasi gratis:** [LINK CALENDLY ANDA]
+📅 **Jadwalkan konsultasi gratis:** [LINK CALENDLY ANDA]
